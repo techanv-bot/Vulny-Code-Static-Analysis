@@ -1,4 +1,4 @@
-# VulnyCode - PHP Code Static Analysis [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=VulnyCode%20-%20PHP%20Code%20Static%20Analysis&url=https://github.com/techanvconsulting/Vulny-Code-Static-Analysis) - Deprecated
+# VulnyCode - PHP Code Static Analysis [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=VulnyCode%20-%20PHP%20Code%20Static%20Analysis&url=https://github.com/techanv-bot/Vulny-Code-Static-Analysis) - Deprecated
 
 ![1.0.0](https://img.shields.io/badge/Version-1.0.0%20Beta-RED) ![Python](https://img.shields.io/badge/Python-3.4+-GREEN) ![Platform](https://img.shields.io/badge/Platforms-Linux%20x64-yellowgreen) 
 
